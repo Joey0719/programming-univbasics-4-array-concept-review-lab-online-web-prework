@@ -3,4 +3,4 @@
 
 describe 'finding data'
 
-scale = 
+scale = ['2',]
