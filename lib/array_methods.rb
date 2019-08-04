@@ -10,4 +10,4 @@ describe 'finding data'
   zig_zag = ['500','4','1000','5','250']
   
   describe 'find_element_index(array, value_to_find)'
-    it 'takes an array '
+    it 'takes an array and a value '
