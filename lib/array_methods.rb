@@ -4,4 +4,4 @@
 describe 'finding data'
 
 scale = ['2','3','4','5']
-scale
+scale_2 = []
